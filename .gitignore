@@ -1,0 +1,13 @@
+# Environments
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environments (해당하는 것만 남기거나 모두 작성)
+venv/
+.venv/
+env/
